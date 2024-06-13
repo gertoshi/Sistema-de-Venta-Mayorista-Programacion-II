@@ -1,0 +1,20 @@
+{
+    "aa": {
+        "nombre": "yo",
+        "apellido": "elmio",
+        "dni": "21211221",
+        "cargo": "Administrador",
+        "usuario": "aa",
+        "contrasena": "123123",
+        "alta": " 12/06/24"
+    },
+    "Lu": {
+        "nombre": "Luis",
+        "apellido": "Ramirez",
+        "dni": "12345678",
+        "cargo": "Administrador",
+        "usuario": "Lu",
+        "contrasena": "1",
+        "alta": " 12/06/24"
+    }
+}
